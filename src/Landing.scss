@@ -19,6 +19,7 @@
     box-sizing: border-box;
     font-size: 1rem;
     line-height: 1.5rem;
+    user-select: none;
 }
 
 .form-wrapper {
@@ -48,6 +49,7 @@ p {
 .forgot-btn a {
     font-weight: 500;
     color: #39cdcc;
+    cursor: pointer;
 }
 
 .sub {
